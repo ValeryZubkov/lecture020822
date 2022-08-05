@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\bin\Debug\net6.0\Project_001.exe
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\bin\Debug\net6.0\Project_001.deps.json
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\bin\Debug\net6.0\Project_001.runtimeconfig.json
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\bin\Debug\net6.0\Project_001.dll
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\bin\Debug\net6.0\Project_001.pdb
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.AssemblyInfo.cs
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.dll
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\refint\Project_001.dll
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.pdb
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\Project_001.genruntimeconfig.cache
+D:\GEEKBRAINS\C#  ЛЕКЦИЯ 0208\projets\Project_001\obj\Debug\net6.0\ref\Project_001.dll
